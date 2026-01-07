@@ -1,0 +1,7 @@
+{
+  "name": "PalmGuru",
+  "description": "An app that predicts future and personality traits by analyzing palm images, for entertainment purposes only.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
